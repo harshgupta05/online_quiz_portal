@@ -1,15 +1,19 @@
-clone the repository in htdocs folder
+## ONLINE QUIZ PORTAL 
 
-1. git clone https://github.com/kapilchhipa4/Online-Quiz-site.git
 
-2. create database with name 'webproject'  (ignore quatation).
+### Description : 
+This is a online quiz website in which we conduct online objective assessments. Firstly user have to registered in the site after that they will give exam of MCQ type question.
+* Technology Used : PHP, MYSQL, Html, Css, js, jquery, AJAX
 
-3. import webproject.sql into your database.
 
-4. type localhost/online-quiz-system in browser.
+### System SetUp Steps :
 
-done........
+Clone the repository in htdocs folder
 
-It is a web based Application through which you can conduct online exam . first user have to registered to give the exam. after registeration he/she can login . when he/she login first he/she will be redirected to condition page . where he/she can see all the condition for exam. then he/she can start the test. there will a timer during test. when the time finishes the test will be submitted automatically. and user can she the result, number of right and wrong question etc. 
+* git clone https://github.com/harshgupta05/online_quiz_portal.git
 
-language - - PHP, MYSQL, html, css, js, jquery, AJAX
+* Create database with name 'webproject'  (ignore quatation).
+
+* import webproject.sql into your database.
+
+* type localhost/online-quiz-system in browser.
